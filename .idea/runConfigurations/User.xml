@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="User" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="RackVisionCinema.Methods.User" />
+    <module name="ProjectGUI" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
